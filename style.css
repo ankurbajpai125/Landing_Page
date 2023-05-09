@@ -27,6 +27,7 @@ nav {
   justify-content: space-between;
   align-items: center;
   flex-wrap: wrap;
+  /* background-color: aqua; */
   width: 100%;
 }
 
@@ -35,6 +36,7 @@ nav {
   font-weight: bold;
   text-transform: uppercase;
   margin: 0;
+  border-radius: 10%;
 }
 
 .nav-links {
@@ -42,6 +44,7 @@ nav {
   justify-content: flex-end;
   align-items: center;
   margin: 0;
+  color: aqua;
   padding: 0;
   list-style: none;
 }
